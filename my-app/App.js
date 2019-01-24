@@ -9,6 +9,9 @@ export default class App extends React.Component {
         <View style={styles.container}>
         <Text>Hey React is pretty cool</Text>
       </View>
+      <View style={styles.container}>
+        <Text>Hey React is pretty cool</Text>
+      </View>
       </View>
     );
   }
