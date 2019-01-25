@@ -6,12 +6,6 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Hey React is pretty cool</Text>
-        <View style={styles.container}>
-        <Text>Hey React is pretty cool</Text>
-      </View>
-      <View style={styles.container}>
-        <Text>Hey React is pretty cool</Text>
-      </View>
       </View>
     );
   }
